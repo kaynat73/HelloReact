@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HelloReact/static/css/main.62a18e5f.css",
+    "main.js": "/HelloReact/static/js/main.c8dc4cd0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/HelloReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/HelloReact/index.html",
+    "main.62a18e5f.css.map": "/HelloReact/static/css/main.62a18e5f.css.map",
+    "main.c8dc4cd0.js.map": "/HelloReact/static/js/main.c8dc4cd0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/HelloReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a18e5f.css",
+    "static/js/main.c8dc4cd0.js"
+  ]
+}
